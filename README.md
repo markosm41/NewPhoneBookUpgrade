@@ -1,1 +1,1 @@
-# NewPhoneBookUpgrade
+Tegin vajalikud uuendused
